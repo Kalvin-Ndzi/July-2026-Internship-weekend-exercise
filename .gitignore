@@ -4,6 +4,7 @@
 **/*answer*key*.md
 **/*solution*.md
 **/*solutions*.md
+**/rubric.md
 
 # OS and editor noise
 .DS_Store
