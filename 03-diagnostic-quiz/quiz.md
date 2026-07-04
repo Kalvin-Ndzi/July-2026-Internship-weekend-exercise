@@ -24,6 +24,3 @@
 
 ---
 
-## Grading note
-
-The goal isn't a perfect score — it's spotting patterns. If most of the class misses the same question, that's your signal for what to revisit before moving on, not a reason to mark everyone down.
