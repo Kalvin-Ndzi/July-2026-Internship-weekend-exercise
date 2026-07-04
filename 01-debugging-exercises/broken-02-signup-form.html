@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up</title>
+</head>
+<body>
+
+    <h1>Create an Account</h1>
+
+    <form action="/signup" method="post">
+
+        <p>Full Name</p>
+        <input type="text" id="fullname" name="fullname">
+
+        <label for="email">Email</label>
+        <input type="text" id="email-field" name="email">
+
+        <label for="password">Password</label>
+        <input type="text" id="password" name="password">
+
+        <p>Select your country</p>
+        <select>
+            <option>USA</option>
+            <option>Canada</option>
+            <option>Cameroon</option>
+        </select>
+
+        <div>Subscribe to updates</div>
+        <input type="checkbox" name="subscribe">
+
+        <div onclick="submitForm()">Submit</div>
+
+    </form>
+
+</body>
+</html>

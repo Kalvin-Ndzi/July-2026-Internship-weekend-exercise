@@ -1,0 +1,11 @@
+# Instructor-only answer keys and solution notes
+**/ANSWER-KEY.md
+**/answer-key.md
+**/*answer*key*.md
+**/*solution*.md
+**/*solutions*.md
+
+# OS and editor noise
+.DS_Store
+Thumbs.db
+.vscode/
